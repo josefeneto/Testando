@@ -8,3 +8,6 @@ __pycache__/
 
 # Segredos do Streamlit
 .streamlit/secrets.toml
+
+# Notas e atalhos locais do projeto
+Project_Information/
